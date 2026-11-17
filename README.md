@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="icon.png" alt="SeismicTR Logo" width="128" height="128">
+</p>
+
 # 🌍 SeismicTR - Smart Earthquake Early Warning (EEW) Station
 
 [🇬🇧 English](#english) | [🇹🇷 Türkçe](#türkçe)
+
 
 ---
 
@@ -90,21 +95,13 @@ This application is **not** affiliated with any government agency (such as AFAD 
 4. **Bildirimler & Üstte Göster:** Bildirimleri ve *Açılır pencereleri / Diğer uygulamaların üzerinde göster* iznini aktif edin.
 5. **Son Uygulamalar:** RAM temizlendiğinde kapanmaması için SeismicTR kartını kilitleyin / *Açık tut* seçeneğini işaretleyin.
 
----
-
-### 💻 Windows (`Windows/`)
-```bash
-cd Windows
-pip install -r requirements.txt
-python main.py
-```
-
-### 🐧 Linux (`Linux/`)
-```bash
-cd Linux
-pip install -r requirements.txt
-python3 main.py
-```
 
 ### ⚠️ Yasal Uyarı
 Bu uygulama resmi bir devlet kurumu (AFAD, Kandilli Rasathanesi vb.) uygulaması **değildir**. Halka açık bilimsel sismik veri akışlarını kullanan bağımsız ve açık kaynaklı bir erken uyarı / izleme projesidir.
+
+---
+
+### 🙏 Credits / Teşekkürler
+- Alert sound effects (excluding EEW alarm) are sourced from the open-source **[GlobalQuake](https://github.com/xspanger3770/GlobalQuake)** project.
+- Uyarı ses efektleri (EEW alarmı hariç) açık kaynaklı **[GlobalQuake](https://github.com/xspanger3770/GlobalQuake)** projesinden alınmıştır.
+

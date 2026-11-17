@@ -41,21 +41,6 @@
 4. **Notifications & Overlay:** Enable Notifications and *Display pop-up windows / Display over other apps*.
 5. **Recent Apps:** Lock / *Keep open* SeismicTR in the Recent Apps screen so it stays active when clearing RAM.
 
----
-
-### 💻 Windows (`Windows/`)
-```bash
-cd Windows
-pip install -r requirements.txt
-python main.py
-```
-
-### 🐧 Linux (`Linux/`)
-```bash
-cd Linux
-pip install -r requirements.txt
-python3 main.py
-```
 
 ### ⚠️ Disclaimer
 This application is **not** affiliated with any government agency (such as AFAD or Kandilli Observatory). It is an independent, open-source project utilizing publicly available scientific seismic data streams.

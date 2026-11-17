@@ -9,18 +9,11 @@
 
 ---
 
-## 📂 Repository Structure / Depo Klasör Yapısı
-
-```text
-SeismicTR/
-├── Android/          # Android (Flet / Flutter) mobile source & config
-├── Windows/          # Windows desktop edition
-├── Linux/            # Linux desktop edition
-├── README.md
-└── LICENSE
-```
+> 📦 **Download / İndir:** Ready-to-use **Android APK**, **Windows**, and **Linux** packages are available in the **[Releases](https://github.com/KositMD/SeismicTR-Python/releases/tag/v1.0.1)** section.
+> Hazır **Android APK**, **Windows** ve **Linux** paketlerine **[Releases](https://github.com/KositMD/SeismicTR-Python/releases/tag/v1.0.1)** sekmesinden ulaşabilirsiniz.
 
 ---
+
 
 <a name="english"></a>
 ## 🇬🇧 English
